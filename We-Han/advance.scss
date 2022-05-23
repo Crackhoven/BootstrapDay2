@@ -23,7 +23,11 @@
     color: white;
   }
   img{
-      height:300px;
-      width:400px;
+      height:500px;
+      width:600px;
       object-fit:cover;
+      margin:auto;
+  }
+  body{
+    background-image:linear-gradient(red, orange, yellow, green, blue);
   }
